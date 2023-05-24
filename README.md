@@ -1,9 +1,9 @@
 # Best Music Shop
 
 * ## Project main goal
-    1. ### Delivering quality vinyls world-wide.
-    2. ### Easy to understand and use by anybody.
-    3. ### Retro vibes.
+    * ### Delivering quality vinyls world-wide.
+    * ### Easy to understand and use by anybody.
+    * ### Retro vibes.
 * ## How to run the project
     * ### Project can be easly run using any chrome based Browser.
     * ### NOTE: Project can be run in any Text Editor that supports HTML, CSS, JavaScript.
