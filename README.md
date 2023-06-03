@@ -24,4 +24,4 @@
 
 * ## Credits
     * ### Icons used https://www.figma.com/file/Of2Eh1kfhkMo5KNBcI3P4A/Evericons-(Copy)?type=design&node-id=0-1&t=3abTJKcbdVdRjDNf-0
-    * ### Images used https://unsplash.com/s/photos/bricks
+    * ### Images used https://thesoundofvinyl.com
