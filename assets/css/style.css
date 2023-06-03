@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  /* -----------------------------------------------s--- Color -------------------------------------------------- */
+  
+  .grey {
+    background-color: grey;
+  }
+  
+  .btn-outline-success {
+    color: black;
+    border-color: black;
+  }
+  
+  /*-------------------------------------------------- TEXT -------------------------------------------------- */
+  
+  .shout-out {
+    background-color: black;
+    color: white;
+  }
+  
+  .header-alt {
+    color: #000;
+  }
+  
+  /* -------------------------------------------------- Align -------------------------------------------------- */
+  
+  .wrapper {
+    text-align: center;
+  }
+  
+  .btn {
+    display: block !important;
+    width: 100% !important;
+  }
