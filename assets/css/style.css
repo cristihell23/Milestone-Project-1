@@ -6,8 +6,12 @@
   
   /* -----------------------------------------------s--- Color -------------------------------------------------- */
   
+  .black {
+    background-color: black;
+  }
+
   .grey {
-    background-color: #6c757d;
+    background-color: grey;
   }
   
   .btn-outline-success {
