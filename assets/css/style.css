@@ -7,7 +7,7 @@
   /* -----------------------------------------------s--- Color -------------------------------------------------- */
   
   .grey {
-    background-color: grey;
+    background-color: #6c757d;
   }
   
   .btn-outline-success {
@@ -21,6 +21,10 @@
     background-color: black;
     color: white;
   }
+
+  .copy-text {
+    color:grey;
+  }
   
   .header-alt {
     color: #000;
@@ -31,8 +35,8 @@
   .wrapper {
     text-align: center;
   }
-  
-  .btn {
-    display: block !important;
-    width: 100% !important;
+
+  .img-h {
+    width:100%;
+    height:27em;
   }
