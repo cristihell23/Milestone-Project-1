@@ -11,7 +11,11 @@
   }
 
   .grey {
-    background-color: grey;
+    background-color: #757575 !important;
+  }
+
+  .grey-text {
+    color:#757575 !important;
   }
 
   .white {
@@ -29,10 +33,6 @@
     background-color: black;
     color: white;
   }
-
-  .copy-text {
-    color:grey;
-  }
   
   .header-alt {
     color: #000;
@@ -40,8 +40,9 @@
   
   /* -------------------------------------------------- Align -------------------------------------------------- */
   
-  .wrapper {
-    text-align: center;
+  .text-end {
+    text-align: end !important;
+    margin-top: 0.5rem !important;
   }
 
   .btn {
