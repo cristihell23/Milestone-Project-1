@@ -17,15 +17,15 @@
     * ### Project was created and is maintained by Cristian Hanganu.
 * ## Design
     * ### Phone 
-        * #### [index-phone](assets/images/mbl-1.jpg)
-        * #### [index-phone](assets/images/mbl-2.jpg)
-        * #### [index-phone](assets/images/mbl-3.jpg)
-        * #### [index-phone](assets/images/mbl-4.jpg)
+        * #### [Top-phone](assets/images/mbl-1.jpg)
+        * #### [Just-Arrived-phone](assets/images/mbl-2.jpg)
+        * #### [Pre-Order-phone](assets/images/mbl-3.jpg)
+        * #### [Signed & Exclusive-phone](assets/images/mbl-4.jpg)
     * ### Desktop 
-        * #### assets/images/dsk-1.jpg
-        * #### [index-phone](assets/images/dsk-2.jpg)
-        * #### [index-phone](assets/images/dsk-3.jpg)
-        * #### [index-phone](assets/images/dsk-4.jpg)
+        * #### [Top-Desktop](assets/images/dsk-1.jpg)
+        * #### [Just-Arrived-Desktop](assets/images/dsk-2.jpg)
+        * #### [Pre-Order-Desktop](assets/images/dsk-3.jpg)
+        * #### [Signed & Exclusive-Desktop](assets/images/dsk-4.jpg)
 
 ---
 # Dev Area
