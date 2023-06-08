@@ -22,7 +22,7 @@
         * #### [index-phone](assets/images/mbl-3.jpg)
         * #### [index-phone](assets/images/mbl-4.jpg)
     * ### Desktop 
-        * #### (assets/images/dsk-1.jpg)
+        * #### assets/images/dsk-1.jpg
         * #### [index-phone](assets/images/dsk-2.jpg)
         * #### [index-phone](assets/images/dsk-3.jpg)
         * #### [index-phone](assets/images/dsk-4.jpg)
