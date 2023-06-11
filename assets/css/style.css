@@ -27,11 +27,11 @@
   }
 
   .darkblue {
-    color: #00008b;
+    color: #4a4ae3;
   }
 
   .purple{
-    color: #833ab4;
+    color: #ce9ffe;
   }
   
   .btn-outline-success {
@@ -75,4 +75,15 @@
 
 .card {
   height: 100%;
+}
+
+.btn-maxw {
+  width: 25% !important;
+}
+
+@media screen and (max-width: 768px) {
+  .btn-maxw {
+    width: 100% !important;
+    display:inline !important;
+  }
 }
