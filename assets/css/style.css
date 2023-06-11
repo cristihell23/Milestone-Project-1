@@ -7,7 +7,7 @@
   /* -----------------------------------------------s--- Color -------------------------------------------------- */
   
   .black {
-    background-color: black;
+    background-color: black !important;
   }
 
   .grey {
@@ -49,7 +49,7 @@
   .header-alt {
     color: #000;
   }
-  
+
   /* -------------------------------------------------- Align -------------------------------------------------- */
   
   .text-end {
@@ -57,10 +57,9 @@
     margin-top: 0.5rem !important;
   }
 
-  .btn {
-    display: block !important;
-    width: 100% !important;
-  }
+.card {
+  height: 100%;
+}
 
   .card-img-top {
     width: 100%;
@@ -73,8 +72,9 @@
   object-fit: cover;
 }
 
-.card {
-  height: 100%;
+.btn {
+  display: block !important;
+  width: 100% !important;
 }
 
 .btn-maxw {
@@ -88,3 +88,11 @@
   }
 }
 
+.error {
+  margin-top:8rem !important;
+}
+
+.map {
+  width:100% !important;
+  height: auto !important;
+}
