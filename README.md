@@ -8,7 +8,7 @@ Welcome to Best Music Shop, your ultimate destination for vinyl enthusiasts. Exp
     * [***Target Audiences***](#target-audiences)
     * [***User Stories***](#user-stories)
     * [***Site Aims***](#site-aims)
-    * [***How Is This Will Be Achieved:***](#how-is-this-will-be-achieved)
+    * [***How Is This Will Be Achieved:***](#how-this-will-be-achieved)
     * [***Wireframes***](#wireframes)
     * [***Color Scheme***](#color-scheme)
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
