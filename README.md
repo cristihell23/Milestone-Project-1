@@ -2,7 +2,6 @@
 ## **Site Overview**
 Welcome to Best Music Shop, your ultimate destination for vinyl enthusiasts. Explore our curated online showcase of rare records, read album descriptions, and immerse yourself in the beauty of vinyl. Join our vibrant community of collectors and stay updated on exclusive events. Remember, the magic truly comes alive in our brick-and-mortar store. Start your vinyl journey today, both online and in-store.
 
-![Am I responsive screenshot](docs/screenshots/am-i-responsive.jpg)
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
 1. [**Planning stage**](#planning-stage)
@@ -189,22 +188,4 @@ This project could not have happened without the support of the following people
 * Accessibility checker - [WAVE - Web accessibility evaluation tool](https://wave.webaim.org/)
   
 ### **Media:**
-* New Kadampa Traditions logos - [meditateinvictoria.org](https://meditateinvictoria.org/wp-content/uploads/2019/02/NKT-Logo-white-transparent-300x300.png)
-
-* Videos on index.html and form-feedback.html- [NKT's official YouTube channel](https://www.youtube.com/nktikbu)
-
-* ebook Modern Buddhism download image - [meditateinbrisbane.org](https://meditateinbrisbane.org/classes/kenmore_class/)
-
-* The Buddha images used to break up the excerpt from Transform your life on teachings.html - [pngwing.com](https://www.pngwing.com/en/search?q=New+KAdampa)
-
-* ebook "How to Transform your life" download image - [kadampa.org](https://kadampa.org/buddhism/kadampa-buddhist-scriptures)
-
-* image within in figure with the ID "temple-img" on community.html - [swdharmacelebration.org](https://swdharmacelebration.org/wp-content/uploads/2020/08/Manjushri.jpg)
-
 * Images used for Card classes were taken from [TheSoundOfVinyl](https://thesoundofvinyl.com)
-
-* Screenshot under README.md section titled "site overview" was created view [Am I responsive](http://ami.responsivedesign.is)
-
-* Color grid contract tool - [Eightshapes](https://contrast-grid.eightshapes.com/) 
-
-* Calculator used to resize figure images on teachings page -[Aspect Ratio Calculator](https://andrew.hedges.name/experiments/aspect_ratio/)
