@@ -98,8 +98,6 @@ The header element sits at the top of the page offering a smooth scroll like act
 #### *Navigation Bar:*
 * The navigation bar appears on all three pages. 
 * It contains links to the just arrived, pre-order, signed & exclusive, and contact us section to allow easy navigation around the website. 
-* The below image shows the user's current page highlighted in blue with a white border. 
-* Hover over feature, which turns the menu option the same as the active page when users hover their cursor over the navbar heading.
 ![Navigation bar](docs/screenshots/navbar.jpg)
 ***
 ### **Disc image**
