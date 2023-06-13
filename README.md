@@ -1,7 +1,7 @@
 # **Best Music Shop**
 ## **Site Overview**
 Welcome to Best Music Shop, your ultimate destination for vinyl enthusiasts. Explore our curated online showcase of rare records, read album descriptions, and immerse yourself in the beauty of vinyl. Join our vibrant community of collectors and stay updated on exclusive events. Remember, the magic truly comes alive in our brick-and-mortar store. Start your vinyl journey today, both online and in-store.
-
+![Am I responsive screenshot](docs/screenshots/amires.png)
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
 1. [**Planning stage**](#planning-stage)
